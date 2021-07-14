@@ -1,9 +1,10 @@
-### Hi there 👋
+<h2> Hi, I'm Shav!</h2>
+<p> I'm currently working as a Trainee Full Stack Developer at <a href="https://getfutureproof.co.uk/">Futureproof</a>. </p> 
+
+[![Linkedin: shavvimalendiran](https://img.shields.io/badge/-shavvimalendiran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shavvimalendiran/)](https://www.linkedin.com/in/shavvimalendiran/)
 
 <!--
-**Shavvimal/Shavvimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
