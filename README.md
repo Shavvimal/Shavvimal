@@ -37,9 +37,9 @@ value creativity and attention to detail in everything I do! </p>
     <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-black?style=for-the-badge&logo=Numpy" />
     <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=Pandas" />
     <img alt="Tensorflow" src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=Tensorflow" /> 
-    <img alt="React" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
-    <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress" /> </code>
+    <img alt="React" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" /> </code>
     <br><br>   <code>
+    <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress" /> 
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />
     <img alt="Django" src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap" />
