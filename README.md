@@ -53,7 +53,7 @@ value creativity and attention to detail in everything I do! </p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="Shavvimal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shavvimal&theme=radical&hide_border=true"/>
   </a>
-<img width="700" src="https://activity-graph.herokuapp.com/graph?username=Shavvimal&theme=radical&bg_color=141321&color=A8FDF6&line=FD428D&point=F7D747&hide_border=true" alt="Shavvimal" />
+<img  src="https://activity-graph.herokuapp.com/graph?username=Shavvimal&theme=radical&bg_color=141321&color=A8FDF6&line=FD428D&point=F7D747&hide_border=true" alt="Shavvimal" />
 
 </p>
 
