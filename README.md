@@ -2,7 +2,7 @@
 <p align="center">  Hi, I'm Shav! I'm currently a Trainee Full Stack Developer at <a href="https://getfutureproof.co.uk/">Futureproof</a>. I
 decided to pursue a career in software development (having graduated with a degree in Chemical Engineering) after I tried
 my hand at using Python while training my own StyleGAN to artificially generate artwork. As someone who loves to <a href="https://youtu.be/2audU-MHQ3Q">paint</a> I
-value creativity and attention to detail in everything I do! </p>
+value creativity and attention to detail in everything I do! </p> 
 <p align="center">
     <a href="https://www.linkedin.com/in/shavvimalendiran/">
     <img alt="Shavvimal" src="https://img.shields.io/badge/-shavvimalendiran-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shavvimalendiran/"> <a/>
