@@ -6,7 +6,7 @@ value creativity and attention to detail in everything I do! </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/shavvimalendiran/">
     <img alt="Shavvimal" src="https://img.shields.io/badge/-shavvimalendiran-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shavvimalendiran/"> <a/>
-    <img src="https://img.shields.io/github/last-commit/Shavvimal/Shavvimal" />
+
     <img src="https://visitor-badge.glitch.me/badge?page_id=Shavvimal.Shavvimal" />
     <img src="https://img.shields.io/badge/Code%20quality-A%20for%20effort-success" />
 
