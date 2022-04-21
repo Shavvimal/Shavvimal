@@ -1,6 +1,6 @@
 <h2 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Welcome to my Profile!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h2>
-<p align="center">  Hi, I'm Shav! I'm currently a Trainee Full Stack Developer at <a href="https://getfutureproof.co.uk/">Futureproof</a>. I
-decided to pursue a career in software development (having graduated with a degree in Chemical Engineering) after I tried
+<p align="center">  Hi, I'm Shav! I'm currently a Data Scientist at Apollo. I
+decided to pursue a career in Data Science (having graduated with a degree in Chemical Engineering) after I tried
 my hand at using Python while training my own StyleGAN to artificially generate artwork. As someone who loves to <a href="https://youtu.be/2audU-MHQ3Q">paint</a> I
 value creativity and attention to detail in everything I do! </p> 
 <p align="center">
