@@ -1,4 +1,4 @@
-<h2 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Welcome to my Profile!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px height="25px"> Welcome to my Profile!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h2>
 <p align="center">  Hi, I'm Shav! I'm currently a Data Scientist at Apollo. I
 decided to pursue a career in Data Science (having graduated with a degree in Chemical Engineering) after I tried
 my hand at using Python while training my own StyleGAN to artificially generate artwork. As someone who loves to <a href="https://youtu.be/2audU-MHQ3Q">paint</a> I
