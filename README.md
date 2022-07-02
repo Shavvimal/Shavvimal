@@ -1,5 +1,5 @@
 <h2 align="center"> Welcome to my Profile!  </h2>
-<p align="center">  Hi, I'm Shav! I'm currently a Data Scientist at Apollo. I
+<p align="center">  Hi, I'm Shav! I'm a Data Scientist. I
 decided to pursue a career in Data Science (having graduated with a degree in Chemical Engineering) after I tried
 my hand at using Python while training my own StyleGAN to artificially generate artwork. As someone who loves to <a href="https://youtu.be/2audU-MHQ3Q">paint</a> I
 value creativity and attention to detail in everything I do! </p> 
