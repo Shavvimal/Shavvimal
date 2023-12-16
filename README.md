@@ -8,7 +8,7 @@ In December, I took a leap of faith and I left my career to chase ✨ Entreprene
 
 ### Let's Connect & Collaborate! 🌐
 
-🔗 Dive into my world:
+🔗 Explore my Corner of the Internet:
 
 - 🌍 [My Website](https://shav.dev/)
 - ✍️ [Blog](https://shav.dev/blog)
