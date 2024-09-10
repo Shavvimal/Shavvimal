@@ -1,10 +1,12 @@
 <h2 align="center"> Welcome! </h2>
 
-👋 Hey there! I'm **[Shav](https://shav.dev/)** - a Full-Stack Data Scientist, AWS Certified Machine Learning Specialist, and an aspiring entrepreneur. I specialize in crafting solutions in MLOps & software architecture, having been focused on scalable data streaming stacks optimized for low-latency, deploying DL architectures, and provisioning distributed Python servers for computation & model serving. I've applied my expertise in AWS, statistics, and database management to develop Risk Models and back-test/tune trading strategies at a crypto hedge fund 📈. Along the way, an in-house OMS platform led to the creation of <a href="https://www.quadra.trade/" rel="noreferrer">Quadra</a>, a Multi-Asset Multi-Exchange Crypto Portfolio Management & Execution system, which I spent over a year helping build and shape from the ground up.
+👋 Hey there! I'm **[Shav](https://shav.dev/)** - a seasoned Technical Founder, Full-Stack Data Scientist, AWS Certified Machine Learning Specialist, and passionate entrepreneur. I specialize in crafting production-ready scalable AI solutions and software architectures, with expertise in low-latency data streaming stacks, deep learning deployment, and distributed server provisioning for computation and model serving.
 
-### Chasing Dreams
+My journey started at an algorithmic and quantitative crypto hedge fund, where I applied my skills in machine learning, cloud architecture, and statistics to develop advanced risk models and optimize trading strategies. I was also a founding engineer at **[Quadra](https://www.quadra.trade/)**, a Multi-Asset, Multi-Exchange Crypto Portfolio Management & Execution platform, which I helped build from the ground up.
 
-In December, I took a leap of faith and I left my career to chase ✨ Entrepreneurship ✨. The dream of building something transformative from the ground up is what drives me. Currently, I'm channeling my energy into new projects, hackathons and constantly seeking opportunities to innovate and make a lasting impact.
+Currently, I'm part of **Antler's global early-stage investor platform**, focused on leveraging my deep AI expertise and startup experience to build impactful, scalable businesses. I'm actively seeking a commercial co-founder who understands their industry deeply and is eager to solve significant pain points with AI-driven solutions. Together, we can move fast, pivot when needed, and create something truly groundbreaking.
+
+🎙️ In my spare time, I co-host **[Dcypher AI](https://www.youtube.com/@dcypher-ai)**, a podcast where I explore cutting-edge AI topics with industry experts. I also maintain a **[blog](https://shav.dev/blog)** that documents my AI and tech journey, including novel methodologies for assessing cultural bias in large language models.
 
 ### Let's Connect & Collaborate! 🌐
 
@@ -12,8 +14,9 @@ In December, I took a leap of faith and I left my career to chase ✨ Entreprene
 
 - 🌍 [My Website](https://shav.dev/)
 - ✍️ [Blog](https://shav.dev/blog)
+- 🎙️ [Dcypher AI Podcast](https://www.youtube.com/@dcypher-ai)
 - 🧠 [Wiki](https://wiki.shav.dev/)
 - 🐦 [Twitter](https://twitter.com/Shavtge)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shavvimalendiran/)
 
-💬 Want to chat, collaborate, or simply say hello? Reach out [here](https://shav.dev/contact). I'm all about forging connections and embarking on journeys to create something extraordinary together. Let's make waves! 🌊
+💬 Want to chat, collaborate, or build something exciting? Reach out [here](https://shav.dev/contact). Let's make waves! 🌊
