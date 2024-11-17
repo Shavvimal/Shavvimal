@@ -4,9 +4,7 @@
 
 My journey started at an algorithmic and quantitative crypto hedge fund, where I applied my skills in machine learning, cloud architecture, and statistics to develop advanced risk models and optimize trading strategies. I was also a founding engineer at **[Quadra](https://www.quadra.trade/)**, a Multi-Asset, Multi-Exchange Crypto Portfolio Management & Execution platform, which I helped build from the ground up.
 
-Currently, I'm part of **Antler's global early-stage investor platform**, focused on leveraging my deep AI expertise and startup experience to build impactful, scalable businesses. I'm actively seeking a commercial co-founder who understands their industry deeply and is eager to solve significant pain points with AI-driven solutions. Together, we can move fast, pivot when needed, and create something truly groundbreaking.
-
-🎙️ In my spare time, I co-host **[Dcypher AI](https://www.youtube.com/@dcypher-ai)**, a podcast where I explore cutting-edge AI topics with industry experts. I also maintain a **[blog](https://shav.dev/blog)** that documents my AI and tech journey, including novel methodologies for assessing cultural bias in large language models.
+🎙️ In my spare time, I co-host **[Dcypher AI](https://www.youtube.com/@dcypher-ai)**, a podcast where I explore cutting-edge AI topics with industry experts. I also maintain a **[blog](https://shav.dev/blog)** that documents my AI and tech journey, including novel methodologies for assessing cultural bias in large language models. Right now, im working in stealth on an agentic AI Startup
 
 ### Let's Connect & Collaborate! 🌐
 
