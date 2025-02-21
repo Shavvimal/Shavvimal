@@ -1,20 +1,16 @@
 <h2 align="center"> Welcome! </h2>
 
-Hey 👋, I'm Shav - Technical Founder, Full-Stack Data Scientist, AWS Certified Machine Learning Specialist, and passionate entrepreneur. I started off as a Quant Dev at an algorithmic and quantitative crypto hedge fund, optimizing trading strategies and developing advanced risk models.
-
-When the fund spun out [Quadra](https://www.quadra.trade/), a Multi-Asset, Multi-Exchange Crypto Portfolio Management & Execution platform, I became the founding engineer crafting production-ready scalable AI solutions and full-stack software architectures. I've expertise in low-latency data streaming stacks, deep learning deployment, distributed server provisioning for computation and model serving, and a touch of ✨ front end ✨.
-
-Now I'm CTO full-time at a stealth startup building in the Agentic AI space 🥷. I'm all about forging relationships, so reach out!
+Hey 👋, I'm Shav - Founder & CTO @ SAMMY (YC W25). I began my career as a Quant Developer at an Algorithmic and Quantitative Crypto Hedge Fund, optimizing trading strategies and engineering advanced risk models. I then served as the Founding Engineer at a Multi-Asset, Multi-Exchange Crypto Portfolio Management & Execution platform, building a robust, production-grade system from 0 ➡️ 1. Today, I'm channeling that same energy into SAMMY, automating onboarding, support & training with AI that mimics your users. I'm passionate about building relationships, so reach out and let's make waves together! 🌊
 
 ### Let's Connect & Collaborate! 🌐
 
 🔗 Explore my corner of the Internet:
 
-- 🌍 [My Website](https://shav.dev/)
+- 🌍 [My Site](https://shav.dev/)
 - ✍️ [Blog](https://shav.dev/blog)
 - 🎙️ [Dcypher AI Podcast](https://www.youtube.com/@dcypher-ai)
 - 🧠 [Wiki](https://wiki.shav.dev/)
-- 🐦 [Twitter](https://twitter.com/Shavtge)
+- 🐦 [Twitter](https://twitter.com/Shavcn)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shavvimalendiran/)
 
-💬 Want to chat, collaborate, or build something exciting? Reach out [here](https://shav.dev/contact). Let's make waves! 🌊
+💬 Want to chat, collaborate, or build something exciting? Reach out [here](https://shav.dev/contact)
