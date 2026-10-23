@@ -1,10 +1,10 @@
 <h2 align="center"> Welcome! </h2>
 
-Hey 👋, I'm Shav - Founder & CTO @ SAMMY (YC W25). I began my career as a Quant Developer at an Algorithmic and Quantitative Crypto Hedge Fund, optimizing trading strategies and engineering advanced risk models. I then served as the Founding Engineer at a Multi-Asset, Multi-Exchange Crypto Portfolio Management & Execution platform, building a robust, production-grade system from 0 ➡️ 1. Today, I'm channeling that same energy into SAMMY to make compliance self-maintaining by codifying regulation so platforms don't have to.
+Hey 👋, I'm Shav - Co-Founder & CTO @ [SAMMY Labs](https://www.sammylabs.com/) (YC W25). Previously a quantitative developer at a Gibraltar-regulated fund, and founding engineer of [Quadra](https://www.quadra.trade), an institutional multi-asset execution and portfolio-management platform now licensed to banks and prime brokers. My research on cultural bias in LLMs is cited at ACM CHI 2026, ACM CUI 2026 and by Columbia University. Now building SAMMY Labs - computational law for AI agents, so legal questions get deterministic answers with a full audit trail instead of an LLM's best guess.
 
 - 🌍 [My Site](https://shav.dev/)
 - ✍️ [Blog](https://shav.dev/blog)
-- 🎙️ [Dcypher AI Podcast](https://www.youtube.com/@dcypher-ai)
 - 🧠 [Wiki](https://wiki.shav.dev/)
-- 🐦 [Twitter](https://twitter.com/Shavtge)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shavvimalendiran/)
+- 🐦 [X](https://x.com/shavtge)
+- ▶️ [YouTube](https://www.youtube.com/@shavgraphics)
